@@ -171,9 +171,3 @@ Renewable-Energy-Analytics/
 ├── images/
 ├── README.md
 ```
-
----
-
-## Conclusion
-
-This project demonstrates an end-to-end analytics workflow using modern cloud and BI technologies to analyze renewable energy usage and optimize operational costs through data-driven insights.
