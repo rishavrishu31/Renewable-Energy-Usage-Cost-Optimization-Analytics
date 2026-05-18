@@ -1,4 +1,4 @@
-# Renewable Energy Usage & Cost Optimization Analytics
+# Cloud-Based Renewable Energy Consumption Analytics Platform
 
 ## Overview
 
